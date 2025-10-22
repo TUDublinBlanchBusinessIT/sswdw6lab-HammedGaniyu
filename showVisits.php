@@ -20,7 +20,7 @@
             <tbody>
               <?php include("visitList.php");?>
             </tbody>
-          </table>
+          </table>cd 
        </div>
     </body>
 </html>
